@@ -42,6 +42,6 @@ I am actively looking for internship opportunities to apply and enhance my skill
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergii-Ponomarenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sergii-ponomarenko-python/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergii-ponomarenko-python-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sergii-ponomarenko-python/)
 
 Feel free to reach out, and let's connect! 😊
