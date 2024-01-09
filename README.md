@@ -39,3 +39,5 @@ I am actively looking for internship opportunities to apply and enhance my skill
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergii--Ponomarenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sergii-ponomarenko-python/)
 
 Feel free to reach out, and let's connect! 😊
+
+[![](https://visitcount.itsvg.in/api?id=Lichtmacher777&icon=0&color=0)](https://visitcount.itsvg.in)
