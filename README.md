@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.redd.it/h0eyd8xk4em71.gif" />
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/59303763700641.5ab98ff858d38.gif" />
 </div>
 
 <div align="center">
