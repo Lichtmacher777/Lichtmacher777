@@ -79,7 +79,7 @@
 
 
 
-I am actively looking for internship opportunities to apply and enhance my skills. If you have an exciting project or internship opportunity, I would love to connect!
+I am actively looking for opportunities to apply and enhance my skills. If you have an exciting project or internship opportunity, I would love to connect!
 
 <div align="center">
 
