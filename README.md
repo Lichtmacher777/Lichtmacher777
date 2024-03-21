@@ -4,17 +4,10 @@
 
 <div align="center">
   
-# Hi there! 👋
-
-</div>
-
-I'm Sergii, currently completed Python Backend Programming course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.
-Continuous learning is a key aspect of my journey, and I am eager to explore more areas within web development. 
-I'm open to collaborations, discussions, and always ready to learn from fellow developers.🤝 
 
 <div align="center">
 
-# 💻 Tech Stack:
+<br />
 
 </div>
 <div align="center">
